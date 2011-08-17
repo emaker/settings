@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	416+62
+Open File for Skeinforge	/home/jeanmarc/Documents/Models/huxley/eMAKER-Huxley/stl/sheet1.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
